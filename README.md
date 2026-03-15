@@ -1,3 +1,4 @@
+[![🤗 Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/InsaneNabz/sentiment-analysis-social-media)
 # Sentiment Analysis for Social Media
 
 > **Applied AI & Data Science Course Project** | NLP Research
